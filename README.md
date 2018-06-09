@@ -1,5 +1,5 @@
 # mobilenet_v2-tensorlayer
-A mobilenet v2 using tensorlayer simple implementation
+mobilenet v2 using tensorlayer simple implementation
 
 Dataset: cifar10
 
