@@ -1,0 +1,1 @@
+python3 cifar10_use_mobilenet_v2.py
